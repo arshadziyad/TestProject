@@ -1,2 +1,1 @@
-test from branch
-test from branch2
+test from master
